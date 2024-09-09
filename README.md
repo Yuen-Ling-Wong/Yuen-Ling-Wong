@@ -1,4 +1,4 @@
-## Hello, my friends 👋
+## Hello, my friends! 😊
 
 👋🏻 I’m Flora @Yuen-Ling-Wong!
 
