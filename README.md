@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# 👋🏻Hi my friends, I’m Flora @Yuen-Ling-Wong!
+# 🌿I’m a M.S.W with public policy background from Hong Kong 🇭🇰! I’ve moved to Montreal currently, and started learning data science! 
+# 🥳I can’t wait to dive into this whole new world with all of you! 🥰
+
 <!--
 **Yuen-Ling-Wong/Yuen-Ling-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
