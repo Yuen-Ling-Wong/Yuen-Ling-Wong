@@ -2,11 +2,11 @@
 
 👋🏻 I’m Flora @Yuen-Ling-Wong!
 
-🌿I’m a passionate learner with M.S.W and public policy background from Hong Kong 🇭🇰! 
+🌿 I’m a passionate learner with M.S.W, public policy, & data science background! 🔭
 
-🌎 I’ve recently settled in Canada 🇨🇦 and started learning data science! 
+🌎 Based in Canada 🇨🇦, I love bringing ideas💡, creativity 🎨, and data insights 📈 to life - creating beauty from scratch!
 
-🌈 I can’t wait to use data science knowledge to make positive changes in our society! 🥰
+🌈 I'm excited to apply data science knowledge to make positive changes in our society! 🥰
 
 <!--
 **Yuen-Ling-Wong/Yuen-Ling-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
