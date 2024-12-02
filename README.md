@@ -2,7 +2,7 @@
 
 👋🏻 I’m Flora @Yuen-Ling-Wong!
 
-🌿 I’m a passionate learner with M.S.W, public policy, & data science background! 🔭
+🌿 I have a diverse background in **M.S.W**, **Public Policy**, & **Data Science** background! 🔭
 
 🌎 Based in Canada 🇨🇦, I love bringing ideas💡, creativity 🎨, and data insights 📈 to life - creating beauty from scratch!
 
