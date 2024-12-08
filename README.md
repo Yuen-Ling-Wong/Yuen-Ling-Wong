@@ -4,7 +4,7 @@
 
 🌿 I have a diverse background in **Data Science** , **M.S.W**, & **Public Policy**! 🔭
 
-🌎 Based in Canada 🇨🇦, I love bringing ideas💡, creativity 🎨, and data insights 📈 to life - Creating Beauty and Solutions from Scratch 🚀!
+🌎 Based in Canada 🇨🇦, I love bringing ideas💡, creativity 🎨, and data insights 📈 to life - Creating Meaningful Solutions from Scratch 🚀!
 
 🌈 Excited to use data science knowledge to make positive changes in our society! 🥰
 
